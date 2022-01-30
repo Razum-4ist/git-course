@@ -1,0 +1,1 @@
+Document.body.innerHTML ="<h1>hello from javaScript</h1>"
